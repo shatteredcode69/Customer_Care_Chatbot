@@ -1,0 +1,156 @@
+{
+    "faqs": [
+        {
+            "question": "What are your working hours?",
+            "answer": "We are available 24/7 to assist you."
+        },
+        {
+            "question": "How can I reset my password?",
+            "answer": "Click on 'Forgot Password' on the login page to reset your password."
+        },
+        {
+            "question": "How can I contact support?",
+            "answer": "You can contact support via email at support@gmail.com."
+        },
+        {
+            "question": "Where is your office located?",
+            "answer": "We are an online-based service available worldwide."
+        },
+        {
+            "question": "How do I track my order?",
+            "answer": "You can track your order using the tracking link sent to your email."
+        },
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept credit/debit cards, PayPal, and other online payment options."
+        },
+        {
+            "question": "How do I cancel my order?",
+            "answer": "You can cancel your order within 24 hours by contacting our support team."
+        },
+        {
+            "question": "Do you offer refunds?",
+            "answer": "Yes, we offer refunds within 30 days of purchase under certain conditions."
+        },
+        {
+            "question": "How can I update my account details?",
+            "answer": "Go to 'My Account' and update your details under 'Account Settings'."
+        },
+        {
+            "question": "What is your return policy?",
+            "answer": "You can return items within 30 days if they are in unused condition."
+        },
+        {
+            "question": "Do you provide international shipping?",
+            "answer": "Yes, we ship to multiple countries worldwide. Shipping rates may vary."
+        },
+        {
+            "question": "How do I report a problem with my order?",
+            "answer": "Contact our support team with your order number, and we’ll assist you."
+        },
+        {
+            "question": "Can I change my delivery address after placing an order?",
+            "answer": "You can change your address within 12 hours by contacting support."
+        },
+        {
+            "question": "Do you offer live chat support?",
+            "answer": "Yes, we offer live chat support 24/7."
+        },
+        {
+            "question": "What should I do if I receive a damaged product?",
+            "answer": "Please contact us immediately with photos, and we will arrange a replacement."
+        },
+        {
+            "question": "How long does delivery take?",
+            "answer": "Delivery times vary by location, typically between 3-7 business days."
+        },
+        {
+            "question": "Can I get a discount on bulk orders?",
+            "answer": "Yes, contact our sales team for bulk order discounts."
+        },
+        {
+            "question": "How do I unsubscribe from promotional emails?",
+            "answer": "Click the 'Unsubscribe' link at the bottom of any promotional email."
+        },
+        {
+            "question": "What security measures do you take for online payments?",
+            "answer": "We use SSL encryption to protect all transactions."
+        },
+        {
+            "question": "Can I request a custom order?",
+            "answer": "Yes, custom orders are available. Contact our support team for details."
+        },
+        {
+            "question": "What happens if my order is delayed?",
+            "answer": "We apologize for any delays. You can check your tracking link for updates."
+        },
+        {
+            "question": "How do I create an account?",
+            "answer": "Click on 'Sign Up' and follow the steps to create your account."
+        },
+        {
+            "question": "How do I delete my account?",
+            "answer": "Contact our support team to request account deletion."
+        },
+        {
+            "question": "Can I change my subscription plan?",
+            "answer": "Yes, go to 'Subscription Settings' to upgrade or downgrade your plan."
+        },
+        {
+            "question": "Do you offer gift cards?",
+            "answer": "Yes, you can purchase gift cards on our website."
+        },
+        {
+            "question": "What if I entered the wrong shipping address?",
+            "answer": "Contact us immediately to update your shipping address."
+        },
+        {
+            "question": "Do you have a referral program?",
+            "answer": "Yes, refer friends and earn rewards. Check our referral page for details."
+        },
+        {
+            "question": "How can I apply a discount code?",
+            "answer": "Enter the code at checkout to apply your discount."
+        },
+        {
+            "question": "Is there a loyalty program?",
+            "answer": "Yes, we offer rewards for repeat customers. Join our loyalty program today!"
+        },
+        {
+            "question": "Do you have a mobile app?",
+            "answer": "Yes, download our app from the App Store or Google Play."
+        },
+        {
+            "question": "What happens if my payment fails?",
+            "answer": "Try another payment method or contact your bank for assistance."
+        },
+        {
+            "question": "Do you offer phone support?",
+            "answer": "Yes, call our helpline at +123-456-7890 for assistance."
+        },
+        {
+            "question": "Can I schedule a callback from support?",
+            "answer": "Yes, you can request a callback through our contact page."
+        },
+        {
+            "question": "Do you offer student discounts?",
+            "answer": "Yes, students can get discounts with a valid student ID."
+        },
+        {
+            "question": "How do I update my payment information?",
+            "answer": "Go to 'Payment Settings' and update your payment details."
+        },
+        {
+            "question": "What if my order is lost in transit?",
+            "answer": "Contact support, and we will initiate an investigation."
+        },
+        {
+            "question": "Do you offer same-day delivery?",
+            "answer": "Same-day delivery is available in select locations."
+        },
+        {
+            "question": "How do I leave a review for a product?",
+            "answer": "Go to the product page and click on 'Write a Review'."
+        }
+    ]
+}
